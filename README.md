@@ -1,0 +1,2 @@
+# SuperMafiabot
+Mafia bot
